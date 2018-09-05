@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-ex",
+  "name": "nodejstemp",
   "version": "0.0.1",
   "description": "Node.js sample app for OpenShift 3",
   "main": "server.js",
@@ -11,8 +11,7 @@
     "mocha": "^2.4.5",
     "mongodb": "^2.1.16",
     "morgan": "^1.7.0",
-    "object-assign":"4.1.0",
-    "pg":"9.6"
+    "object-assign":"4.1.0"
   },
   "engine": {
     "node": "*",
@@ -26,11 +25,10 @@
     "type": "git",
     "url": "https://github.com/jimgarrett123/nodejstemp.git"
   },
-  "author": "Jim Garrett <jgarrett@redhat.com>",
+  "author": "Jim Garrett <jgarrett@redhat.com",
   "license": "CC-BY-1.0",
   "bugs": {
-    "url": "http://github.com/sclorg/nodejs-ex/issues"
+    "url": "http://github.com/jimgarrett123/nodejstemp/issues"
   },
-  "homepage": "http://github.com/sclorg/nodejs-ex"
+  "homepage": "http://github.com/jimgarrett123/nodejstemp"
 }
-
